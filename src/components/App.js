@@ -1,7 +1,9 @@
+import Router from './Router'
+
 const App = () => {
   return (
     <div className="App">
-      <p className="text-primary">set up is working</p>
+      <Router />
     </div>
   );
 }

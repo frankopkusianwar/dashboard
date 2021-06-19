@@ -1,0 +1,13 @@
+.nav{
+    background: #0290ff;
+    color: white;
+  }
+
+.search-form {
+    margin-left: 40%;
+    margin-top: 30px;
+}
+
+.add-product {
+    text-align: center;
+}
